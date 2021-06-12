@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=0.10"
+    "node": "v13.1.0"
   },
   "name": "discord-rpc",
   "version": "1.0.0",
